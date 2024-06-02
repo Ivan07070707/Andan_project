@@ -127,7 +127,7 @@ pip freeze > requirements.txt
 3. Random Forest
 4. Gradient Boosting
 
-Самым успешным был Gradient Boosting с показателем RMSE: 0.54307
+Самым успешным был Gradient Boosting с показателем RMSE: 0.52925
 
 Далее модель была улучшена при помощи `GridSearchCV` благодаря чему удалось улучшить показатель RMSE
-на  
+на 0.03155
